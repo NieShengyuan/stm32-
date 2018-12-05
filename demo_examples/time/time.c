@@ -1,5 +1,4 @@
 #include "time.h"
-#include "led.h"
 //定时器中断函数在stm32f10x_it.c中
 void time_Init()
 {
